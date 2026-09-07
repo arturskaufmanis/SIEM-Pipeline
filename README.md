@@ -3,7 +3,7 @@
 **Sysmon and Splunk Enterprise | Windows Server 2025 Domain Controller | ADForest.local**
 
 A fully operational security monitoring pipeline built on a Windows Server 2025 Active Directory Domain Controller. Sysmon captures host telemetry and forwards it natively into Splunk Enterprise, enabling real-time process monitoring, threat detection, and SOC analyst workflows — all within a 500 MB/day free licence constraint.
-[image of the result, more images in folder] (https://arturskaufmanis.github.io/SIEM-Pipeline/
+[image of the result, more images in folder] (https://arturskaufmanis.github.io/SIEM-Pipeline/images/20260523_151750.jpg)
 ---
 ## Architecture Overview
 
